@@ -8,7 +8,9 @@
         <id>http://example.com/%E6%9C%AB%E5%BD%B1%E7%9A%84%E6%AD%A6%E5%99%A8%E5%BA%93/</id>
         <title>后端武器库</title>
         <link rel="alternate" href="http://example.com/%E6%9C%AB%E5%BD%B1%E7%9A%84%E6%AD%A6%E5%99%A8%E5%BA%93/"/>
-        <content type="html">&lt;p&gt;额，what can I say, have funning!&lt;/p&gt;
+        <content type="html">&lt;h2 id=&#34;额what-can-i-say-have-funning&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#额what-can-i-say-have-funning&#34;&gt;#&lt;/a&gt; 额，what can I say, have funning!&lt;/h2&gt;
+&lt;hr&gt;
+&lt;hr&gt;
 &lt;h1 id=&#34;武器库&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#武器库&#34;&gt;#&lt;/a&gt; 武器库&lt;/h1&gt;
 &lt;h2 id=&#34;处理器&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#处理器&#34;&gt;#&lt;/a&gt; 处理器&lt;/h2&gt;
 &lt;h4 id=&#34;1全局异常处理器&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#1全局异常处理器&#34;&gt;#&lt;/a&gt; 1. 全局异常处理器&lt;/h4&gt;
